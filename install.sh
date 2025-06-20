@@ -4,7 +4,7 @@
 VERBOSE=false
 
 # Constants
-MAGMA_VERSION="v1.8.0"
+MAGMA_VERSION="v1.9.0"
 WORK_DIR="/tmp/magma-installer"
 CUSTOM_CHART_DIR="$WORK_DIR/magma-custom-chart"
 CERTS_DIR="$WORK_DIR/magma_certs"
